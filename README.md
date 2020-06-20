@@ -18,7 +18,7 @@ Currently, the distribution features the following font families in alphabetic o
 
 **Contact Info**: info@senamirmir.org
 
-**Project Home**: [http://www.senamirmi.org](http://www.senamirmi.org)
+**Project Home**: [http://www.senamirmir.org](http://www.senamirmir.org)
 
 
 
